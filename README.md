@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh saini</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img align="rigth" alt="Coding"  width="400" src="https://i.gifer.com/7SvE.gif">
+<img align="right" alt="Coding"  width="400" src="https://i.gifer.com/7SvE.gif">
 
 - 🌱 I’m currently learning **Spring boot , Maven**
 

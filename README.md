@@ -6,11 +6,7 @@
 
 <img align="right" alt="Coding"  width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611cd4b3ebe42c55b00125e4490953eb88eb303338c&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Spring boot , Maven**
-
 - 👨‍💻 All of my projects are available at [https://yogeshsaini.netlify.app/](https://yogeshsaini.netlify.app/)
-
-- 💬 Ask me about **Java , Javascript , DSA**
 
 - 📫 How to reach me **yogesh000saini@gmail.com**
 

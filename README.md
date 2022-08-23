@@ -1,5 +1,5 @@
 
-![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> </h1>
 <p align='center'>
@@ -17,12 +17,13 @@
 
 ## I'm A Student, Developer and a Learner!!!
 - 👱🏼 Hey, I am Yogesh Saini, a 19 Year Old Young Developer.
-- 😄 Adjectives: Coder, Leader and Kind Hearted
-- 🌈 I Like Coding, Music and Playing Games.
-- 🌱 I Am Also Learning SpringBoot 
-- 😐 I have a Love/hate Relationship with Programming
-- ✈ In Future, I’m Looking to get a Job in Microsoft.
-- ❤️ Support Me and Follow Me In  Social Media
+
+- 🌈 I Like Coding, Music and Playing Games
+
+- 🌱 I Am Also Learning SQL ,Spring ,SpringBoot
+
+- 😐 Ask me about Core Java and Database
+
 - 😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
 - 👨‍💻 All of my projects are available at [https://yogeshsaini.netlify.app/](https://yogeshsaini.netlify.app/)
 - 📫 How to reach me **yogesh000saini@gmail.com**

@@ -59,6 +59,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
 
  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YogeshR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yogesh&theme=dark&hide_border=false)<br/>
+
 
 
 

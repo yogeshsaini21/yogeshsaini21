@@ -61,11 +61,13 @@
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YogeshR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yogesh&theme=dark&hide_border=false)<br/>
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=suragvc&show_icons=true&locale=en&layout=compact&theme=dark"   alt="suragvc" />
+&nbsp;
 
-
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=suragvc&theme=dark" alt="suragvc"/>
 
 
 
  <h3 align="center">Thank You for taking the time to view my GitHub Profile :smile:</h3>
-
+  
+  

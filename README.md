@@ -64,7 +64,7 @@
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=suragvc&show_icons=true&locale=en&layout=compact&theme=dark"   alt="suragvc" />
 &nbsp;
 
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=suragvc&theme=dark" alt="suragvc"/>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsaini21&theme=dark" alt="yogeshsaini21"/>
 
 
 

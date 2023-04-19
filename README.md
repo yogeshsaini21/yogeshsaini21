@@ -25,7 +25,7 @@
 - 😐 Ask me about Core Java and Database
 
 - 😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
-- 👨‍💻 About me - [Portfolio](https://yogeshsaini21.github.io/yogesh-portfolio/)
+- 👨‍💻 About me - [Portfolio](https://yogeshsaini21.github.io/yogeshsaini-portfolio/)
 - 📫 How to reach me **yogesh000saini@gmail.com**
 
   
